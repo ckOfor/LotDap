@@ -11,3 +11,7 @@ D
 contracts/prize.clar,d/b/db28711f1472ee43ba6ae90bbd396c7cc9d4189c
 C
 tests/prize.test.ts,c/c/cc6486ca309de3d5cb9b5235a8dc14999983c92a
+C
+contracts/main.clar,9/c/9c367f624ea83f14e611673c37efa5bd9afba9d6
+B
+tests/main.test.ts,e/c/ec28f080589e8f51109692472fcfa30946eb0791
